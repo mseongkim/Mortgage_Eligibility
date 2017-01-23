@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Nov 29 01:01:45 2015
-
 @author: Min Seong Kim 
 """
 
 import pandas as pd
 import numpy as np
-import scipy as sp
 import pandas.io.data
 
 file = 'mortgage_sample_data.xlsx'
